@@ -8,7 +8,7 @@ I hold a **BSc in Physics** from *Università degli Studi di Trieste* and an **M
 ## 🔬 Research Interests
 - Nanofabrication (especially **Electron Beam Lithography**)  
 - **Superconducting Nanowire Single-Photon Detectors (SNSPDs)**  
-- Quantum photonics & nanoscale device integration  
+- **Superconducting electronics**
 
 ---
 
