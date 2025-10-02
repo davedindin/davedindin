@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 About Me
+I'm a first-year PhD student in **Electrical Engineering and Computer Science** at **MIT**.  
 
-<!--
-**davedindin/davedindin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hold a **BSc in Physics** from *Università degli Studi di Trieste* and an **MSc in Micro and Nanotechnologies for Integrated Systems**, a joint program between *Politecnico di Torino*, *Grenoble INP*, and *EPFL*.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+- Nanofabrication (especially **Electron Beam Lithography**)  
+- **Superconducting Nanowire Single-Photon Detectors (SNSPDs)**  
+- Quantum photonics & nanoscale device integration  
+
+---
+
+## 📫 Links
+- [LinkedIn](https://www.linkedin.com/in/davide-mondin)  
+- [Email](mailto:mondin@mit.edu)  
